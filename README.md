@@ -1,19 +1,11 @@
 # Salud_al_dia
 Documentación del proyecto salud al día 
 
--**arduinoblocks1788040.abp**
+- **arduinoblocks1788040.abp** Programa en Arduinoblock
 
-    Programa en Arduinoblock
-
--**pastillero_corte_laser.dxf**
-
-    Planos de corte laser para caja y dispensador
+- **pastillero_corte_laser.dxf** Planos de corte laser para caja y dispensador
     
--**pastillero1.png**
+- **pastillero1.png** Interior pastillero
 
-    Interior pastillero
-
--**pastillero2.png**
-
-    Exterior pastillero
+- **pastillero2.png** Exterior pastillero
 
